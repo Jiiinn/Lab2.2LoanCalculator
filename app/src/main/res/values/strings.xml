@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2.2LoanCalculator</string>
+    <string name="editCarPrice">Car price</string>
+    <string name="editDownPayment">Down payment</string>
+    <string name="editLoanPeriod">Loan period</string>
+    <string name="editInterestRate">Interest rate(%)</string>
+    <string name="tvDownPayment">Down payment</string>
+    <string name="tvLoanPeriod">Loan period</string>
+    <string name="tvInterestRate">Interest Rate(%)</string>
+    <string name="tvMonthRepayment">Month repayment</string>
+    <string name="buttonSubmit">Submit</string>
+</resources>
